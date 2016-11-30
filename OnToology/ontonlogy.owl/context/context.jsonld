@@ -1,0 +1,72 @@
+{
+  "@context" : {
+    "NombreOrganizador" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#NombreOrganizador",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Servicio" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Servicio"
+    },
+    "DateEvento" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#DateEvento",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Organizador" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Organizador"
+    },
+    "Programa" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Programa",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "entradaGratuita" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#entradaGratuita",
+      "@type" : "@id"
+    },
+    "TipoEvento" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#TipoEvento",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "InfoReserva" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#InfoReserva",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "NombreServicio" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#NombreServicio",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Precio" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Precio",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "LugarEvento" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#LugarEvento",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "familiar" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#familiar",
+      "@type" : "@id"
+    },
+    "Publico" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Publico",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "Mes" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Mes",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Descripcion" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Descripcion",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "NombreEvento" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#NombreEvento",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Evento" : {
+      "@id" : "http://www.semanticweb.org/pfd/ontologies/2016/10/untitled-ontology-11#Evento"
+    }
+  }
+}
